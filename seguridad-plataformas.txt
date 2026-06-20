@@ -1,0 +1,5 @@
+1. No exponer datos personales de usuarios
+2. Filtros de subida de archivos
+3. Monitoreo de inicios de sesión
+4. Ocultar datos sensibles por defecto
+5. Cifrado de datos almacenados
